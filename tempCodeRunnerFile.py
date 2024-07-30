@@ -1,7 +1,8 @@
 #Pacman in Python with PyGame
 #https://github.com/hbokmann/Pacman
   
-import pygame
+import pygame._view
+  
 black = (0,0,0)
 white = (255,255,255)
 blue = (0,0,255)
